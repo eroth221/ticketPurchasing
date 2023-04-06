@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This is a very simple boilerplate for a ticket checkout hub.
+Plan to add more functionality in the future. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
