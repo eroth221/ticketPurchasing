@@ -1,0 +1,29 @@
+.credit-card-list {
+    padding: 16px 16px 0px;
+}
+
+.add-new-card-container {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 16px 16px 0px;
+}
+
+.plus-sign {
+    fill: blue;
+}
+
+.add-new-card {
+    font-size: 16px;
+    margin-left: 16px;
+    color: blue;
+    background-color: transparent;
+    border: 0px;
+}
+
+.card-preview {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 6px;
+}

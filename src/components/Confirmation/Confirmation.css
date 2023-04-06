@@ -1,0 +1,29 @@
+.confirmation {
+    border: 1px solid rgb(191, 191, 191);
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+}
+
+.confirmation-header {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.confirmation-method {
+    display: flex;
+}
+
+.confirmation-body {
+    display: flex;
+    text-align: left;
+}
+
+.cost-breakdown {
+    width: 100%;
+}

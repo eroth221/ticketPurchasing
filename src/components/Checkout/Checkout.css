@@ -1,0 +1,22 @@
+.checkout {
+    display: flex;
+    margin-top: 108px;
+    flex-direction: row;
+    padding: 0px 24px;
+}
+
+.checkout-left-container {
+    flex: 1 1 100%;
+    height: 600px;
+    overflow: scroll;
+}
+
+.checkout-right-container {
+    flex: 0 0 400px;
+    margin-left: 24px;
+    position: sticky;
+}
+
+.block-container {
+    display: block;
+}

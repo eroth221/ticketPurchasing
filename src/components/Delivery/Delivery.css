@@ -1,0 +1,25 @@
+.delivery {
+    border: 1px solid rgb(191, 191, 191);
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+}
+
+.delivery-header {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.delivery-method {
+    display: flex;
+}
+
+.delivery-body {
+    display: flex;
+    text-align: left;
+}

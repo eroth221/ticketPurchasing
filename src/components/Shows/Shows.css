@@ -1,0 +1,22 @@
+.shows {
+    border: 1px solid rgb(191, 191, 191);
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+}
+
+.shows-header {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.name {
+    display: flex;
+    text-align: left;
+    padding: 10px;
+}
